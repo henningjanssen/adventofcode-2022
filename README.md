@@ -8,7 +8,7 @@ Day | Language | Note
 -- | -- | --
 01 | Lua | Use the documentation on lua.org solely. No stackoverflow or googling!
 02 | Lua | see day 1
-03 | 
+03 | Perl | -
 
 Language-backlog: Ada, Boo, Cobol, Elixir, Euphoria, Julia, Ruby, Smalltalk, Vala
 
@@ -17,3 +17,4 @@ Day | Part 1 | Part 2
 -- | -- | --
 01 | 69528 | 206152
 02 | 11449 | 13187
+03 | 7903 | 2548
