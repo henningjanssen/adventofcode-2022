@@ -8,8 +8,9 @@ Day | Language | Note
 -- | -- | --
 01 | Lua | Use the documentation on lua.org solely. No stackoverflow or googling!
 02 | Lua | see day 1
+03 | 
 
-Language-backlog: Ada, Boo, Cobol, Elixir, Julia, Smalltalk, Vala
+Language-backlog: Ada, Boo, Cobol, Elixir, Euphoria, Julia, Ruby, Smalltalk, Vala
 
 # Solutions
 Day | Part 1 | Part 2
