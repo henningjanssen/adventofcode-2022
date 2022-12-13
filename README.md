@@ -11,8 +11,9 @@ Day | Language | Note
 03 | Perl | -
 04 | Miranda | -
 05 | Vala | -
+06 | Cobol | -
 
-Language-backlog: Ada, Boo, Cobol, Elixir, Euphoria, Julia, Ruby, Smalltalk
+Language-backlog: Ada, Boo, Elixir, Euphoria, Julia, Ruby, Smalltalk
 
 # Solutions
 Day | Part 1 | Part 2
@@ -22,3 +23,4 @@ Day | Part 1 | Part 2
 03 | 7903 | 2548
 04 | 464 | 779
 05 | JDTMRWCQJ | VHJDDCWRD
+06 | 1658 | 2260
