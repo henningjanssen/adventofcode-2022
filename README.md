@@ -12,8 +12,9 @@ Day | Language | Note
 04 | Miranda | -
 05 | Vala | -
 06 | Cobol | -
+07 | Smalltalk | GNU Smalltalk
 
-Language-backlog: Ada, Boo, Elixir, Euphoria, Julia, Ruby, Smalltalk
+Language-backlog: Ada, Boo, Elixir, Euphoria, Julia, Ruby
 
 # Solutions
 Day | Part 1 | Part 2
@@ -24,3 +25,4 @@ Day | Part 1 | Part 2
 04 | 464 | 779
 05 | JDTMRWCQJ | VHJDDCWRD
 06 | 1658 | 2260
+07 | 1989474 | 1111607
