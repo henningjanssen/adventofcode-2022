@@ -13,7 +13,7 @@ Day | Language | Note
 05 | Vala | -
 06 | Cobol | -
 07 | Smalltalk | GNU Smalltalk
-08 | Euphoria | part 1 done, part 2 coming soon
+08 | Euphoria | -
 
 Language-backlog: Ada, Boo, Elixir, Julia, Nim, Phix, Ruby
 
@@ -27,4 +27,4 @@ Day | Part 1 | Part 2
 05 | JDTMRWCQJ | VHJDDCWRD
 06 | 1658 | 2260
 07 | 1989474 | 1111607
-08 | 1681 | -
+08 | 1681 | 201684
