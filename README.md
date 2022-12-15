@@ -14,8 +14,9 @@ Day | Language | Note
 06 | Cobol | -
 07 | Smalltalk | GNU Smalltalk
 08 | Euphoria | -
+09 | Nim | -
 
-Language-backlog: Ada, Boo, Elixir, Go, Julia, Nim, Phix, Ruby, Tcl
+Language-backlog: Ada, Boo, Elixir, Go, Julia, Phix, Ruby, Tcl
 
 # Solutions
 Day | Part 1 | Part 2
@@ -28,3 +29,4 @@ Day | Part 1 | Part 2
 06 | 1658 | 2260
 07 | 1989474 | 1111607
 08 | 1681 | 201684
+09 | 5619 | 2376
