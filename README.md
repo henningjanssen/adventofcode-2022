@@ -16,7 +16,7 @@ Day | Language | Note
 08 | Euphoria | -
 09 | Nim | -
 
-Language-backlog: Ada, Boo, Elixir, Go, Julia, Phix, Ruby, Tcl
+Language-backlog: Ada, Boo, Elixir, Erlang, Go, Julia, Phix, Ruby, Tcl
 
 # Solutions
 Day | Part 1 | Part 2
