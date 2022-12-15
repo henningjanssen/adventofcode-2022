@@ -15,7 +15,7 @@ Day | Language | Note
 07 | Smalltalk | GNU Smalltalk
 08 | Euphoria | -
 
-Language-backlog: Ada, Boo, Elixir, Julia, Nim, Phix, Ruby
+Language-backlog: Ada, Boo, Elixir, Go, Julia, Modula-3, Nim, Phix, Ruby
 
 # Solutions
 Day | Part 1 | Part 2
