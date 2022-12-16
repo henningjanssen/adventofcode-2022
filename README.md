@@ -17,7 +17,7 @@ Day | Language | Note
 09 | Nim | -
 10 | Elixir | -
 
-Language-backlog: Ada, Boo, Elm, Erlang, Go, Julia, OCaml, Phix, Ruby, Tcl
+Language-backlog: Ada, Elm, Erlang, Go, Julia, OCaml, Phix, Ruby, Tcl
 
 # Solutions
 Day | Part 1 | Part 2
