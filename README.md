@@ -16,8 +16,9 @@ Day | Language | Note
 08 | Euphoria | -
 09 | Nim | -
 10 | Elixir | -
+11 | Ruby | -
 
-Language-backlog: Ada, Elm, Erlang, Go, Julia, OCaml, Phix, Ruby, Tcl
+Language-backlog: Ada, Elm, Erlang, Go, Julia, OCaml, Phix, Tcl
 
 # Solutions
 Day | Part 1 | Part 2
@@ -32,3 +33,4 @@ Day | Part 1 | Part 2
 08 | 1681 | 201684
 09 | 5619 | 2376
 10 | 13760 | RFKZCPEF
+11 | 61005 | 20567144694
